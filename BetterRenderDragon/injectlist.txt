@@ -1,0 +1,7 @@
+# DLL injection list
+# Write one dll path per line, absolute or relative to this exe
+# Support # comment lines
+# Example:
+# dlls\YourDll1.dll
+# dlls\Subfolder\Other.dll
+# C:\AbsolutePath\Another.dll

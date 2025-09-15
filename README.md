@@ -1,4 +1,7 @@
 # tutorial to force Vibrant Visuals on unsupported device (for Android and Windows)
+## Tutorial for:
+- **[Android](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/tree/main?tab=readme-ov-file#android)**
+- **[Windows](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/tree/main?tab=readme-ov-file#windows)**
 ## **What is Vibrant Visuals?**
 Vibrant Visuals is a visual graphics upgrade that will transform the way players experience Minecraft. Initially releasing for Minecraft: **Bedrock Edition**, it is our developer’s vision for what Minecraft looks like with improved visual elements such as directional lighting, volumetric fog, and more. The result is dazzling – shadows move as the sun arcs across the sky, water reflects the landscape around it, and clouds appear infinite as they stretch far into the distance. 
 
@@ -24,8 +27,27 @@ By modifiding this file, **Minecraft** will think we're using a *high-end* devic
 - Start by download the `MT manager.apk` from [uptodown](https://mt-manager.en.uptodown.com/android) or [mediafire](https://www.mediafire.com/file/2h6p0ep9hkaxxcs/mt-manager-2-19-0.apk/file), this application will help you edit the `tiers.bin` in the minecraft apk file.\
 > the **application** maybe blocked by the **Play protect**, you may have to turn it off to install the `.apk` file.
 - Second, download the modified `tiers.bin` from my Githup ([here](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/android/force%20vibrant%20visual/tiers.bin)), and get the current `minecraft.apk` file, you can get it from **ROOT** or any website *(btw, I will not take any responsibility if you download minecraft from an unreliable source.)*
-- Now put them into a folder and open the *MT Manager* app
+- Now put them into a folder and open the *MT Manager* app.
+![step1.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/1.jpg)
+- On the right side, press on the `minecraft.apk` in click **view**.
+![step2.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/2.jpg)
+- Go to `.../assets/assets/`.
+![step2.5.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/2.5.jpg)
+- On left side, press on `tiers.bin` a choose "**Add ->**".
+![step3.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/3.jpg)
+- Choose like this and press **OK**.
+![step4.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/4.jpg)
+- If everything is done, install the `.apk` and enjoy (with 5fps ofc💔)
+![step5.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/5.jpg)
 
+ \
+ *Well, because my phone is too weak to record a video so I will just leave some photo here:*\
+  \
+ ![pic1.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/Screenshot_2025-09-13-20-13-45-66_2cbc9fd271adfa2ebd7600c42501803f.jpg)
+ ![pic2.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/Screenshot_2025-09-15-16-19-51-13_2cbc9fd271adfa2ebd7600c42501803f.jpg)
+ ![pic3.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/Screenshot_2025-09-15-16-30-19-98_2cbc9fd271adfa2ebd7600c42501803f.jpg)
+
+> about my phone: [Oppo A76](https://www.oppo.com/en/smartphones/series-a/a76/specs/)
 ---
 ## Windows
 On window devices, it is much easier, no need to modify the application.\
@@ -35,6 +57,6 @@ Simply download the **Better Render Dragon** from their [Githup](https://github.
 Then unarchive and run the `mcbe_injector.exe`, it will automatically enable minecraft for windows if you have it installed.\
 After the loading stage done, the game will appear with a small winhow like this:\
  \
-![The in game board.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/brd.png)\
+![The ingame board.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/brd.png)\
 Now `force Enable Vibrant Visuals` and done, ur ready to experience vibrant visual with 10fps💔
 > Note: Old Nvidia or AMD GPU may don't work, **Minecraft** still require some new modules to work

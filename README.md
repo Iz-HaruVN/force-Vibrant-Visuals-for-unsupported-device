@@ -2,6 +2,7 @@
 ## Tutorial for:
 - **[Android](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/tree/main?tab=readme-ov-file#android)**
 - **[Windows](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/tree/main?tab=readme-ov-file#windows)**
+- **[Download more shaders](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device?tab=readme-ov-file#download-more-shader)**
 ## **What is Vibrant Visuals?**
 Vibrant Visuals is a visual graphics upgrade that will transform the way players experience Minecraft. Initially releasing for Minecraft: **Bedrock Edition**, it is our developer’s vision for what Minecraft looks like with improved visual elements such as directional lighting, volumetric fog, and more. The result is dazzling – shadows move as the sun arcs across the sky, water reflects the landscape around it, and clouds appear infinite as they stretch far into the distance. 
 
@@ -72,7 +73,7 @@ Now `force Enable Vibrant Visuals` and done, ur ready to experience vibrant visu
 - Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/revolution-vibrant-visual
 - mcpedl: https://mcpedl.com/revolution-vibrant-visual/
 ### Luminous Dreams *(xxpoggyislitxx)*
-![lumi] (https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/lumi.png)\
+![lumi](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/lumi.png)\
 "Luminous Dreams is being reborn with v1.0, embracing a unique style designed to make your world feel warm and welcoming. In the past, Luminous Dreams aimed for realism, but that approach never truly captured our vision—it just didn’t feel right in Minecraft. Now, we’ve reimagined nearly every aspect of the pack to give it its own distinct identity".
 - Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/poggy-s-luminous-dreams-deferred-renderer-shader-pack-beta
 - mcpedl: https://mcpedl.com/poggy-s-luminous-dreams-deferred-renderer-shader-pack-beta/

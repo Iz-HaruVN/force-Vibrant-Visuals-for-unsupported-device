@@ -6,7 +6,7 @@ It is **not affiliated with, endorsed, or supported by Mojang, Microsoft, or any
 
 By using any information, instructions, or tools from this repository, you acknowledge that:
 
-- You may be violating the **Minecraft End User License Agreement (EULA)** or other applicable terms of service.  
+- You may be violating the **Minecraft End User License Agreement ([EULA](https://www.minecraft.net/en-us/eula))** or other applicable terms of service.  
 - The authors and contributors of this repository **take no responsibility** for any damage, account bans, data loss, or legal issues that may arise.  
 - **No modified game files, cracked versions, or copyrighted assets** from Minecraft are distributed here.  
 - You use the information **at your own risk**.  
@@ -41,7 +41,7 @@ By modifiding this file, **Minecraft** will think we're using a *high-end* devic
 **Tutorial**
 - Start by download the `MT manager.apk` from [uptodown](https://mt-manager.en.uptodown.com/android) or [mediafire](https://www.mediafire.com/file/2h6p0ep9hkaxxcs/mt-manager-2-19-0.apk/file), this application will help you edit the `tiers.bin` in the minecraft apk file.
 > the **application** maybe blocked by the **Play protect**, you may have to turn it off to install the `.apk` file.
-- Second, download the modified `tiers.bin` from my Githup ([here](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/android/force%20vibrant%20visual/tiers.bin)), and get the current `minecraft.apk` file, you can get it from **ROOT** or any website *(btw, I will not take any responsibility if you download minecraft from an unreliable source.)*
+- Second, and get the current `minecraft.apk` file, you can get it from **ROOT** or any website *(btw, I will not take any responsibility if you download minecraft from an unreliable source.)*, use any file explorer to get the `tiers.bin` in `.../assets/assets/`.
 - Now put them into a folder and open the *MT Manager* app.
 ![step1.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/1.jpg)
 - On the right side, press on the `minecraft.apk` in click **view**.

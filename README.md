@@ -24,7 +24,7 @@ These tiers tell the game which graphical features a GPU is allowed to use, such
 By modifiding this file, **Minecraft** will think we're using a *high-end* device and letting us use *Vibrant Visual*.
 ---
 **Tutorial**
-- Start by download the `MT manager.apk` from [uptodown](https://mt-manager.en.uptodown.com/android) or [mediafire](https://www.mediafire.com/file/2h6p0ep9hkaxxcs/mt-manager-2-19-0.apk/file), this application will help you edit the `tiers.bin` in the minecraft apk file.\
+- Start by download the `MT manager.apk` from [uptodown](https://mt-manager.en.uptodown.com/android) or [mediafire](https://www.mediafire.com/file/2h6p0ep9hkaxxcs/mt-manager-2-19-0.apk/file), this application will help you edit the `tiers.bin` in the minecraft apk file.
 > the **application** maybe blocked by the **Play protect**, you may have to turn it off to install the `.apk` file.
 - Second, download the modified `tiers.bin` from my Githup ([here](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/android/force%20vibrant%20visual/tiers.bin)), and get the current `minecraft.apk` file, you can get it from **ROOT** or any website *(btw, I will not take any responsibility if you download minecraft from an unreliable source.)*
 - Now put them into a folder and open the *MT Manager* app.
@@ -60,3 +60,19 @@ After the loading stage done, the game will appear with a small winhow like this
 ![The ingame board.](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/brd.png)\
 Now `force Enable Vibrant Visuals` and done, ur ready to experience vibrant visual with 10fps💔
 > Note: Old Nvidia or AMD GPU may don't work, **Minecraft** still require some new modules to work
+## Download more shader
+### Prizma Visuals *(Al3xis5)*
+![prizma](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/prizma.png)\
+"Prizma goal is to provide detailed PBR textures, beautiful 3D bump effects, amazing sky and the best visual experience. Prizma take full advantage of the new Vibrant Visuals mode and heavily adjusts everything to give the best visuals".
+- Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/prizma-pbr-deferred-pack
+- mcpedl: https://mcpedl.com/prizma-pbr-deferred-pack/
+### Revolution Vibrant Visual *(Aleeee)*
+![revo](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/revo.png)\
+"As the name suggests, this project aims to revolutionize Minecraft Bedrock's graphics by using the deferred lighting technique and making it as similar as possible to Minecraft Java. This is its second version, but I'll be evolving it little by little. Keep in mind that this is the first deferred project I've created, and I'm fairly new to this, so some of the deferred projects already available might be better than this one".
+- Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/revolution-vibrant-visual
+- mcpedl: https://mcpedl.com/revolution-vibrant-visual/
+### Luminous Dreams *(xxpoggyislitxx)*
+![lumi] (https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/blob/main/assets/lumi.png)\
+"Luminous Dreams is being reborn with v1.0, embracing a unique style designed to make your world feel warm and welcoming. In the past, Luminous Dreams aimed for realism, but that approach never truly captured our vision—it just didn’t feel right in Minecraft. Now, we’ve reimagined nearly every aspect of the pack to give it its own distinct identity".
+- Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/poggy-s-luminous-dreams-deferred-renderer-shader-pack-beta
+- mcpedl: https://mcpedl.com/poggy-s-luminous-dreams-deferred-renderer-shader-pack-beta/

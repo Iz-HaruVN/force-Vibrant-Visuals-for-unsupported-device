@@ -1,4 +1,18 @@
 # tutorial to force Vibrant Visuals on unsupported device (for Android and Windows)
+## ⚠️ Disclaimer
+
+This project is provided **for educational and personal use only**.  
+It is **not affiliated with, endorsed, or supported by Mojang, Microsoft, or any related entity**.  
+
+By using any information, instructions, or tools from this repository, you acknowledge that:
+
+- You may be violating the **Minecraft End User License Agreement (EULA)** or other applicable terms of service.  
+- The authors and contributors of this repository **take no responsibility** for any damage, account bans, data loss, or legal issues that may arise.  
+- **No modified game files, cracked versions, or copyrighted assets** from Minecraft are distributed here.  
+- You use the information **at your own risk**.  
+
+If you want to enjoy Minecraft with all features officially, please purchase and play the game on supported devices.  
+
 ## Tutorial for:
 - **[Android](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/tree/main?tab=readme-ov-file#android)**
 - **[Windows](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device/tree/main?tab=readme-ov-file#windows)**
